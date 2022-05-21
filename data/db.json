@@ -1,0 +1,8 @@
+{"users":
+    [
+        { "name":"aqua" , "quality":"useless" , "id":1 },
+        { "name":"megumin" , "quality":"terrorist" , "id":2 },
+        { "name":"lalatina" , "quality":"tank" , "id":3 }
+
+    ]
+}
