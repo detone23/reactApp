@@ -22,7 +22,7 @@ useEffect(()=>{
       
     setTimeout(()=>{
 
-        fetch("http://localhost:8000/users")
+        fetch("https://my-json-server.typicode.com/detone23/mockServer/users")
     .then(res =>{
 
         return res.json();
